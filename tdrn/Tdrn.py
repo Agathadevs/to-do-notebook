@@ -1,6 +1,5 @@
-from tdrn.creat import Creat
-import os
-import wget
+from Tdrn.creat import Creat
+
 
 class Tdrn_(Creat):
 
